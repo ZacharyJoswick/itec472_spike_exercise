@@ -1,4 +1,4 @@
-# ITEC 471 spike exercise
+# ITEC 472 spike exercise
 
 The task is to create an openapi documentation yaml file for the spike exercise from itec 470. How the api is implemented is completely up to you, but it should be logical and fulfill all requirements from that project. 
 
